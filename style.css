@@ -25,10 +25,15 @@
     font-weight: 400;
     font-size: 30px;
 }
-.bar {
+li {
     list-style-type: none;
     text-decoration-style: none;
+}
+.bar {
     margin: 0px 30px;
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
 }
 .account {
     background-color: turquoise;
